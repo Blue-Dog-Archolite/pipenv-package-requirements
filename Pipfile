@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+[packages]
+wheel = "*"
+pipenv = "*"
+
+[dev-packages]
+flake8 = "*"
+jedi = "*"
+neovim = "*"
+psutil = "*"
+pdb = "*"
+coverage = "*"
+jupyter = "*"
+twine = "*"
